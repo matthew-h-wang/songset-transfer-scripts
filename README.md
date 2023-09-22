@@ -1,0 +1,1 @@
+Python/MySQL scripts to transfer data from a CSV spreadsheet to the MySQL database for a [Songsets](https://github.com/matthew-h-wang/songsets) band/user.
